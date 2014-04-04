@@ -2,7 +2,7 @@
   "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughskennedy.com)",
   "name": "kssnode",
   "description": "NodeJS port of kss: A methodology for documenting CSS and generating styleguides",
-  "version": "0.3.9",
+  "version": "0.3.10",
   "repository": {
     "type": "git",
     "url": "git://github.com/seansheds/kssnode.git"
